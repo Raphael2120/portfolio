@@ -14,23 +14,17 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
-        </p>
+          I'm RAMANANTSOA Raphaël. I'm an apprenticeship in third year of college now.
+          For my future project, I have decided to go in a engering school for next year. 
+          However, I need to be hired in a new entreprise to carry on this way. So thtat's why I update my portfolio now. I'm really at ease on what I do. 
+          What I do now is not an issue for me. This is a real passion that I want to show to everyone.</p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          Now, for those recruiters who is going to see my portfolio. I just want to say that I have a real path on my life. I know where I'm heading. I know my goals and purposes.
+          I just need to show you my skills and knowledges around IT. I don't give up on my life and I wanna prove that we can reach our goals  with works and efforts.
+          On other hands, I also want to improve my skills to be better. Become a DevOps and finally finishing my path as a CIO or an equal Post
         </p>
       </div>
     </div>
